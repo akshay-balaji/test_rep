@@ -1,1 +1,0 @@
-first readme.txt to commit and push. Edit: Now edited
